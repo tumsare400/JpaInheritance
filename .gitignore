@@ -1,0 +1,8 @@
+*.classpath
+
+JpaInheritance/.mvn
+JpaInheritance/target
+JpaInheritance/.project
+JpaInheritance/HELP.md
+JpaInheritance/mvnw
+JpaInheritance/mvnw.cmd
